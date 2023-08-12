@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "firstName": "user",
+      "lastName": "name",
+      "email": "username@gmail.com",
+      "birthday": "13 aug 2000",
+      "location": "Jakarta",
+      "country": "Indonesia",
+      "doSent": ""
+    },
+    {
+      "firstName": "user",
+      "lastName": "name2",
+      "email": "username2@gmail.com",
+      "birthday": "12 aug 2001",
+      "location": "Jayapura",
+      "country": "Indonesia",
+      "doSent": ""
+    },
+    {
+      "firstName": "user",
+      "lastName": "name3",
+      "email": "username3@gmail.com",
+      "birthday": "14 aug 2005",
+      "location": "Bandung",
+      "country": "Indonesia",
+      "doSent": ""
+    },
+    {
+      "firstName": "user",
+      "lastName": "name4",
+      "email": "username4@gmail.com",
+      "birthday": "14 aug 2003",
+      "location": "Sydney",
+      "country": "Australia",
+      "doSent": ""
+    }
+]
+}
